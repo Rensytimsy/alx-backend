@@ -1,0 +1,1 @@
+About quering in javascript
